@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
-- 🔭 I’m currently working on **fonts sanchaya**
+- 🔭 I’m currently working on [**fonts sanchaya**](https://github.com/sanchaya/fonts)
 
 - 🌱 I’m currently learning **Nodejs, Reactjs**
 
