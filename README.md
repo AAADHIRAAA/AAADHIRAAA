@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
-- 🔭 I’m currently working on [**fonts sanchaya**](https://github.com/sanchaya/fonts)
+- 🔭 I’m currently working on [ServantsOfKnowledge]
 
 - 🌱 I’m currently learning **Nodejs, Reactjs**
 
-- 🤝 I have worked in [Sairam Internship Portal](https://github.com/Vishal-Marvel/internship-portal-backend)
+- 🤝 I have worked in [Sairam Internship Portal](https://github.com/Vishal-Marvel/internship-portal-backend) , [**fonts sanchaya**](https://github.com/sanchaya/fonts).
 
 - 📫 How to reach me **padmapriyas.2004@gmail.com**
 
