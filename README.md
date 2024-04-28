@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
-- 🔭 I’m currently working on Saraswatha Sanchaya project
+- 🔭 I’m currently working on [**PustakaSaraswatha project**](https://github.com/sanchaya/pustakasaraswatha)
 
 - 🌱 I’m currently learning **Nodejs, Nextjs**
 
-- 🤝 I have worked in [Sairam Internship Portal](https://github.com/Vishal-Marvel/internship-portal-backend) , [#ServantsOfKnowledge](https://github.com/omshivaprakash/sok_agent_stats), [**fonts sanchaya**](https://github.com/sanchaya/fonts), [**ISBN portal**]()
+- 🤝 I have worked in [Sairam Internship Portal](https://github.com/Vishal-Marvel/internship-portal-backend) , [#ServantsOfKnowledge](https://github.com/omshivaprakash/sok_agent_stats), [**fonts sanchaya**](https://github.com/sanchaya/fonts), [**ISBN portal**](https://github.com/sanchaya/isbn-kannada)
 
 - 📫 How to reach me **padmapriyas.2004@gmail.com**
 
